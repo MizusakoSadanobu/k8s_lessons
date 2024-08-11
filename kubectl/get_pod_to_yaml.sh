@@ -1,0 +1,1 @@
+kubectl get pod myapp --output yaml --namespace default > pod.yaml

@@ -1,0 +1,1 @@
+kubectl delete --filename pod-destruction.yaml --namespace default
