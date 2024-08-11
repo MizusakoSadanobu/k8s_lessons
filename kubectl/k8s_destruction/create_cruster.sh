@@ -1,0 +1,1 @@
+kubectl apply --filename replicaset.yaml --namespace default
