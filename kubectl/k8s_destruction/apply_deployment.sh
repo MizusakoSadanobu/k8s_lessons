@@ -1,0 +1,1 @@
+kubectl apply --filename deployment.yaml --namespace default
