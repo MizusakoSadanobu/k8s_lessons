@@ -28,4 +28,5 @@
     - Storage orchestration
     - Automated rollouts and rollbacks
     - etc
+
 ![image](image/history.png)
